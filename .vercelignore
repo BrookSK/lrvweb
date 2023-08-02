@@ -1,0 +1,3 @@
+# Exemplo 1: Excluir a pasta "vendor" e os arquivos "installed.php" e "installed.json"
+/api/src/vendor/composer/installed.php
+/api/src/vendor/composer/installed.json
