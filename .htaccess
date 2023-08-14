@@ -1,0 +1,18 @@
+
+# HTID:22085982: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:22085982:
+
+RewriteEngine On
+
+# Forçar HTTPS
+#RewriteCond %{HTTPS} off
+# RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Redirecionar a string de consulta "i=1"
+# RewriteCond %{QUERY_STRING} ^i=1$ [NC]
+# RewriteRule ^(.*)$ /$1? [L,R=301]
+
+# Redirecionar para o arquivo index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ public/index.php?url=$1 [L,QSA]
