@@ -12,7 +12,7 @@
 								<b>Desenvolvedor PHP</b>
 							</span>
 						</h2>
-						<p>Olá! Meu nome é Lucas Rodrigues Vacari, tenho 17 anos e estou animado em compartilhar um
+						<p>Olá! Meu nome é Lucas Rodrigues Vacari, tenho 18 anos e estou animado em compartilhar um
 							pouco sobre mim!</p>
 
 						<a href="<?php echo DIRDOWN.'Curriculo_Lucas_Atualizado.pdf' ?>" download="Curriculo_Lucas_Atualizado.pdf"
@@ -66,7 +66,7 @@
 					<div class="about-content wow fadeInUp" data-wow-delay="0.8s">
 						<h3>Eu sou Lucas Rodrigues Vacari</h3>
 						<p>Eu sou um profissional dedicado e entusiasmado com desenvolvimento de sistemas, com uma
-							paixão pela criação de soluções inovadoras. Com 17 anos de idade, já possuo formação técnica
+							paixão pela criação de soluções inovadoras. Com 18 anos de idade, possuo formação técnica
 							em Desenvolvimento de Sistemas pela Etec Philadelpho Gouveia Neto, e atualmente estou
 							cursando Análise e Desenvolvimento de Sistemas na UNIP.</p>
 
@@ -104,10 +104,10 @@
 							<li><i class="flaticon-placeholder"></i><b>Endereço:</b> Mirassol, São Paulo</li>
 							<li><i class="flaticon-email"></i><b>Email:</b> lucasrvacari9@gmail.com</li>
 							<li><i class="flaticon-flag"></i><b>Nacionalidade:</b> Brasileiro</li>
-							<!--
+							<!-- -->
 							<li><i class="flaticon-email"></i><b>Email-2:</b> lucasrvacari99@gmail.com</li>
 							<li><i class="flaticon-trophy"></i><b>Namoro:</b> +1 Ano de namoro</li>
-							-->
+							
 						</ul>
 					</div>
 					<!-- About Content End -->
