@@ -71,7 +71,7 @@
 							cursando Análise e Desenvolvimento de Sistemas na UNIP.</p>
 
 						<p>Além do meu entusiasmo pela área de tecnologia, também tenho uma parte muito importante na
-							minha vida: namoro com a Beatriz há 1 ano. Ela é uma pessoa incrível que me apoia em todas
+							minha vida: meu namoro com a Beatriz há mais de 1 ano. Ela é uma pessoa incrível que me apoia em todas
 							as minhas conquistas e compartilhamos momentos muito bons juntos.</p>
 
 						<p>Tenho experiência em diversas linguagens de programação, como PHP, JAVA, C++, Python,
@@ -104,8 +104,10 @@
 							<li><i class="flaticon-placeholder"></i><b>Endereço:</b> Mirassol, São Paulo</li>
 							<li><i class="flaticon-email"></i><b>Email:</b> lucasrvacari9@gmail.com</li>
 							<li><i class="flaticon-flag"></i><b>Nacionalidade:</b> Brasileiro</li>
+							<!--
 							<li><i class="flaticon-email"></i><b>Email-2:</b> lucasrvacari99@gmail.com</li>
 							<li><i class="flaticon-trophy"></i><b>Namoro:</b> +1 Ano de namoro</li>
+							-->
 						</ul>
 					</div>
 					<!-- About Content End -->
@@ -300,14 +302,14 @@
 						<!-- Education Slider Start -->
 						<div class="swiper-container education-slider">
 							<div class="swiper-wrapper">
-								<!-- Experience Slide start -->
+								<!-- Experience Slide start
 								<div class="swiper-slide">
 									<div class="experience-single">
 										<h5>2020</h5>
 										<h4>Excel 2010 - Básico</h4>
 										<p>Fundação Bradesco - Escola Virtual</p>
 									</div>
-								</div>
+								</div> -->
 								<!-- Experience Slide end -->
 
 								<!-- Experience Slide start -->
@@ -651,6 +653,70 @@
 									qual eu fiz muito rápido utilizando o Bootstrap.
 								</p>
 								<a href="https://brooksk.github.io" class="btn-view-project" target="_blank">Ver
+									Projeto</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Single Portfolio Ends -->
+
+				<!-- Single Portfolio starts -->
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box institucional">
+					<div class="single-portfolio">
+						<a href="#popup-6" class="has-popup">
+							<img src="<?php echo DIRIMG.'fincont.jpg' ?>" class="Portfolio Image" alt="Site Institucional Fincont Consultoria" />
+							<div class="single-portfolio-overlay">
+								<h2>Fincont Consultoria</h2>
+								<h3>Site Institucional</h3>
+							</div>
+						</a>
+					</div>
+					<div id="popup-6" class="popup-box mfp-fade mfp-hide">
+						<div class="content">
+							<div class="image">
+								<img src="<?php echo DIRIMG.'fincont.jpg' ?>" alt="Site Institucional Fincont Consultoria">
+							</div>
+							<div class="desc">
+								<h4>Fincont Consultoria</h4>
+								<h5><i class="fa fa-folder"></i> Site Institucional</h5>
+								<p>
+									Este foi o segundo site que eu fiz <b>trabalhando na MW Online como estagiário</b>, 
+									uma experiência surreal de aprendizado, onde criei o espaço do site no servidor, 
+									fiz o apontammento do domínio do cliente e criei o site WordPress do 0.
+								</p>
+								<a href="https://fincontconsultoria.com.br" class="btn-view-project" target="_blank">Ver
+									Projeto</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- Single Portfolio Ends -->
+
+				<!-- Single Portfolio starts -->
+				<div class="col-md-3 col-sm-6 col-xs-12 portfolio-box institucional">
+					<div class="single-portfolio">
+						<a href="#popup-7" class="has-popup">
+							<img src="<?php echo DIRIMG.'nuttria.jpg' ?>" class="Portfolio Image" alt="Site Institucional Nuttria" />
+							<div class="single-portfolio-overlay">
+								<h2>Nuttria</h2>
+								<h3>Site Institucional</h3>
+							</div>
+						</a>
+					</div>
+					<div id="popup-7" class="popup-box mfp-fade mfp-hide">
+						<div class="content">
+							<div class="image">
+								<img src="<?php echo DIRIMG.'nuttria.jpg' ?>" alt="Site Institucional Nuttria">
+							</div>
+							<div class="desc">
+								<h4>Nuttria</h4>
+								<h5><i class="fa fa-folder"></i> Site Institucional</h5>
+								<p>
+									Este foi o primeiro site que recriei <b>trabalhando na MW Online como estagiário</b>, 
+									uma experiência muito boa de aprendizado, onde recriei recuperamos o site que estava invadido, 
+									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em inglês).
+								</p>
+								<a href="https://nuttria.com" class="btn-view-project" target="_blank">Ver
 									Projeto</a>
 							</div>
 						</div>
