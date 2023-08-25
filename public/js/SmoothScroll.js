@@ -363,7 +363,9 @@ function wheel(event) {
     }
     
     scrollArray(overflowing, deltaX, deltaY);
-    event.preventDefault();
+    if (!options.passive) { // Verifica se passive é false
+        event.preventDefault();
+    }
     scheduleClearCache();
 }
 
@@ -716,7 +718,7 @@ else if ('onmousewheel' in document.createElement('div'))
     wheelEvent = 'mousewheel';
 
 if (wheelEvent && isEnabledForBrowser) {
-    addEvent(wheelEvent, wheel);
+    addEvent(wheelEvent, wheel, { passive: false });
     addEvent('mousedown', mousedown);
     addEvent('load', init);
 }
