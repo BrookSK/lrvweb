@@ -10,6 +10,7 @@
 							<span class="cd-words-wrapper">
 								<b class="is-visible">Desenvolvedor Web</b>
 								<b>Desenvolvedor PHP</b>
+								<b>Desenvolvedor Full Stack</b>
 							</span>
 						</h2>
 						<p>Olá! Meu nome é Lucas Rodrigues Vacari, tenho 18 anos e estou animado em compartilhar um
@@ -413,11 +414,11 @@
 								<div class="col-md-6">
 									<!-- Skill Single Start -->
 									<div class="skill-single">
-										<h5>CSS 3</h5>
+										<h5>C#</h5>
 										<div class="skill-ratting">
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<i class="fa fa-star-half-o"></i>
+											<i class="fa fa-star-o"></i>
 											<i class="fa fa-star-o"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
@@ -443,7 +444,7 @@
 								<div class="col-md-6">
 									<!-- Skill Single Start -->
 									<div class="skill-single">
-										<h5>JavaScript</h5>
+										<h5>Python</h5>
 										<div class="skill-ratting">
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
@@ -714,7 +715,7 @@
 								<p>
 									Este foi o primeiro site que recriei <b>trabalhando na MW Online como estagiário</b>, 
 									uma experiência muito boa de aprendizado, onde recriei recuperamos o site que estava invadido, 
-									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em inglês).
+									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em Inglês).
 								</p>
 								<a href="https://nuttria.com" class="btn-view-project" target="_blank">Ver
 									Projeto</a>
