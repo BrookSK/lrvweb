@@ -413,11 +413,11 @@
 								<div class="col-md-6">
 									<!-- Skill Single Start -->
 									<div class="skill-single">
-										<h5>CSS 3</h5>
+										<h5>C#</h5>
 										<div class="skill-ratting">
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
-											<i class="fa fa-star-half-o"></i>
+											<i class="fa fa-star-o"></i>
 											<i class="fa fa-star-o"></i>
 											<i class="fa fa-star-o"></i>
 										</div>
@@ -443,7 +443,7 @@
 								<div class="col-md-6">
 									<!-- Skill Single Start -->
 									<div class="skill-single">
-										<h5>JavaScript</h5>
+										<h5>Python</h5>
 										<div class="skill-ratting">
 											<i class="fa fa-star"></i>
 											<i class="fa fa-star"></i>
