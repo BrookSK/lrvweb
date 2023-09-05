@@ -856,7 +856,7 @@
 					<!-- Section title start -->
 					<div class="section-title">
 						<h2>Melhores Preços</h2>
-						<p>Aque estão alguns dos melhores preços que eu ofereço</p>
+						<p>Aqui estão alguns dos melhores preços que eu ofereço</p>
 					</div>
 					<!-- Section title end -->
 				</div>
