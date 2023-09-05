@@ -115,7 +115,7 @@
 
 					<!-- Footer Copyright start -->
 					<div class="footer-copyright">
-						<p>Copyright &copy; <a href="<?php DIRPAGE ?>">Lucas Rodrigues Vacari</a>. Todos os direitos
+						<p>Copyright &copy; <a href="<?php echo DIRPAGE ?>">Lucas Rodrigues Vacari</a>. Todos os direitos
 							reservados.</p>
 					</div>
 					<!-- Footer Copyright end -->
