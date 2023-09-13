@@ -871,7 +871,7 @@
 								<i class="flaticon-settings"></i>
 							</div>
 							<h3>Site One Page</h3>
-							<p>R$650</p>
+							<p>R$450</p>
 						</div>
 
 						<div class="pricing-body">
@@ -905,7 +905,7 @@
 								<i class="flaticon-award"></i>
 							</div>
 							<h3>Site Institucional</h3>
-							<p>R$850</p>
+							<p>R$700</p>
 						</div>
 
 						<div class="pricing-body">
@@ -940,7 +940,7 @@
 								<i class="flaticon-trophy"></i>
 							</div>
 							<h3>Site E-Commerce - Nuvemshop</h3>
-							<p>R$1.400</p>
+							<p>R$1.200</p>
 						</div>
 
 						<div class="pricing-body">
