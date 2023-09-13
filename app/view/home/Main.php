@@ -104,10 +104,10 @@
 							<li><i class="flaticon-placeholder"></i><b>Endereço:</b> Mirassol, São Paulo</li>
 							<li><i class="flaticon-email"></i><b>Email:</b> lucasrvacari9@gmail.com</li>
 							<li><i class="flaticon-flag"></i><b>Nacionalidade:</b> Brasileiro</li>
-							<!-- -->
+							<!-- 
 							<li><i class="flaticon-email"></i><b>Email-2:</b> lucasrvacari99@gmail.com</li>
 							<li><i class="flaticon-trophy"></i><b>Namoro:</b> +1 Ano de namoro</li>
-							
+							-->
 						</ul>
 					</div>
 					<!-- About Content End -->
