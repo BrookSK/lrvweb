@@ -105,7 +105,7 @@
 					<!-- Footer Social Link start -->
 					<div class="footer-social">
 						<a target="_blank" href="https://github.com/BrookSK"><i class="fa fa-github"></i></a>
-						<a target="_blank" href="https://www.linkedin.com/in/lucas-vacari-80139a228/"><i
+						<a target="_blank" href="https://www.linkedin.com/in/lucas-vacari/"><i
 								class="fa fa-linkedin"></i></a>
 						<a target="_blank"
 							href="https://api.whatsapp.com/send?phone=5517991190528&text=Ol%C3%A1,%20vim%20pelo%20seu%20site%20de%20portfolio%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20....."><i
