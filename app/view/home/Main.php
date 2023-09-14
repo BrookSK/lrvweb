@@ -10,6 +10,7 @@
 							<span class="cd-words-wrapper">
 								<b class="is-visible">Desenvolvedor Web</b>
 								<b>Desenvolvedor PHP</b>
+								<b>Desenvolvedor Full Stack</b>
 							</span>
 						</h2>
 						<p>Olá! Meu nome é Lucas Rodrigues Vacari, tenho 18 anos e estou animado em compartilhar um
@@ -279,9 +280,19 @@
 								<!-- Experience Slide start -->
 								<div class="swiper-slide">
 									<div class="experience-single">
-										<h5>03/2023 - Atualmente</h5>
+										<h5>03/2023 - 09/2023</h5>
 										<h4>Estagiário na empresa: MW Online (Pequena/média empresa)</h4>
-										<p>Estágio na MW Online desde março de 2023, aprendendo desenvolvimento web (WordPress e PHP), gerenciamento de servidores e buscando constantemente novos conhecimentos. Ótima equipe e ambiente de trabalho em São José do Rio Preto - SP.</p>
+										<p>Estágio na MW Online de março de 2023 até setembro de 2023, buscando aprendizado em desenvolvimento web (WordPress e PHP), gerenciamento de servidores e buscando constantemente novos conhecimentos. Ótima equipe e ambiente de trabalho em São José do Rio Preto - SP.</p>
+									</div>
+								</div>
+								<!-- Experience Slide end -->
+
+								<!-- Experience Slide start -->
+								<div class="swiper-slide">
+									<div class="experience-single">
+										<h5>09/2023 - Atualmente</h5>
+										<h4>Atuando como PJ e trabalhando como MEI</h4>
+										<p>Atuando como pessoa jurídica, trabalhando como Microempreendedor Individual e prestando serviços para empresas com atuação na programação (Prestando serviços que incluiem desenvolvimento PHP, WordPress, Nuvemshop, C#, JavaScript, CSS, entre outros). Atuando com prefêrencia de local remoto e/ou na região de São José do Rio Preto - SP.</p>
 									</div>
 								</div>
 								<!-- Experience Slide end -->
@@ -714,7 +725,7 @@
 								<p>
 									Este foi o primeiro site que recriei <b>trabalhando na MW Online como estagiário</b>, 
 									uma experiência muito boa de aprendizado, onde recriei recuperamos o site que estava invadido, 
-									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em inglês).
+									recriei o site utilizando o Elementor, do jeito que o site estava antes de ser invadido (em Português e em Inglês).
 								</p>
 								<a href="https://nuttria.com" class="btn-view-project" target="_blank">Ver
 									Projeto</a>
