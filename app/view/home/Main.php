@@ -67,7 +67,9 @@
 					<div class="about-content wow fadeInUp" data-wow-delay="0.8s">
 						<h3>Eu sou Lucas Rodrigues Vacari</h3>
 						<p>Eu sou um profissional dedicado e entusiasmado com desenvolvimento de sistemas, com uma
-							paixão pela criação de soluções inovadoras. Com 18 anos de idade, possuo formação técnica
+							paixão pela criação de soluções inovadoras. Em setembro de 2023, abri minha própria MEI 
+                            (Microempreendedor Individual) e agora estou trabalhando como MEI - PJ nessa área. Com 
+                            18 anos de idade, possuo formação técnica
 							em Desenvolvimento de Sistemas pela Etec Philadelpho Gouveia Neto, e atualmente estou
 							cursando Análise e Desenvolvimento de Sistemas na UNIP.</p>
 
@@ -292,7 +294,7 @@
 									<div class="experience-single">
 										<h5>09/2023 - Atualmente</h5>
 										<h4>Atuando como PJ e trabalhando como MEI</h4>
-										<p>Atuando como pessoa jurídica, trabalhando como Microempreendedor Individual e prestando serviços para empresas com atuação na programação (Prestando serviços que incluiem desenvolvimento PHP, WordPress, Nuvemshop, C#, JavaScript, CSS, entre outros). Atuando com prefêrencia de local remoto e/ou na região de São José do Rio Preto - SP.</p>
+										<p>Atuando como pessoa jurídica, trabalhando como Microempreendedor Individual e prestando serviços para empresas com atuação na programação (Prestando serviços que incluem desenvolvimento PHP, WordPress, Nuvemshop, C#, JavaScript, CSS, entre outros). Atuando com preferencia de local remoto e/ou na região de São José do Rio Preto - SP.</p>
 									</div>
 								</div>
 								<!-- Experience Slide end -->
