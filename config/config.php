@@ -4,7 +4,7 @@
 
 
 
-$PastaInterna="lucas/";
+$PastaInterna="";
 
 
 
