@@ -8,7 +8,18 @@ $PastaInterna="";
 
 
 
-define('DIRPAGE',"https://{$_SERVER['HTTP_HOST']}/{$PastaInterna}");
+// Verifica se a requisição está usando HTTPS
+if (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on') {
+    $protocol = 'https://';
+} else {
+    $protocol = 'http://';
+}
+// Concatena o protocolo ao domínio do site
+$site_url = $protocol . $_SERVER['HTTP_HOST'];
+// Define a constante DIRPAGE
+define('DIRPAGE', "{$site_url}/{$PastaInterna}");
+
+//define('DIRPAGE',"http://{$_SERVER['HTTP_HOST']}/{$PastaInterna}");
 
 
 
