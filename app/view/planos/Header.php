@@ -13,7 +13,7 @@
             <li class="nav-item"><a class="nav-link" href="<?php echo DIRPAGE ?>#services">Serviços</a></li>
             <li class="nav-item"><a class="nav-link" href="<?php echo DIRPAGE ?>#resume">Skills</a></li>
             <li class="nav-item"><a class="nav-link" href="<?php echo DIRPAGE ?>#portfolio">Portfolio</a></li>
-            <li class="nav-item"><a class="nav-link" href="<?PHP echo DIRPAGE.'planos' ?>">Preços</a></li>
+            <!-- <li class="nav-item"><a class="nav-link" href="<?PHP echo DIRPAGE.'planos' ?>">Preços</a></li> -->
             <li class="nav-item"><a class="nav-link" href="<?php echo DIRPAGE ?>#contact">Contato</a></li>
         </ul>
         <!-- Navigation Ends -->

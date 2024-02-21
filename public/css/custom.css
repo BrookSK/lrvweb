@@ -1298,7 +1298,7 @@ header .navbar.sticky-header{
 
 .brand-sponser{
 	padding: 60px 0;
-	background: #151515;
+	/* background: #151515; */
 }
 
 .brand-slide{
@@ -1320,6 +1320,7 @@ header .navbar.sticky-header{
 
 .contactus{
 	padding: 100px 0;
+	/* background: #151515; */
 }
 
 .contact-form .form-control{
