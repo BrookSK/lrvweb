@@ -4,7 +4,7 @@
 
 
 
-$PastaInterna="lrvweb/";
+$PastaInterna="";
 
 
 
