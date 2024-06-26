@@ -2596,7 +2596,7 @@
 
 							<div class="form-group col-md-12 col-sm-12">
 
-								<textarea rows="4" class="form-control" placeholder="Conte-me como posso ajuda-lo" name="mensagem" id="mensagem"></textarea>
+								<textarea rows="4" class="form-control" placeholder="Conte-me como posso ajuda-lo" name="mensagem" id="mensagem" required></textarea>
 
 							</div>
 
