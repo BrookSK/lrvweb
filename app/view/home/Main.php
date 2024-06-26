@@ -2574,7 +2574,7 @@
 
 				<div class="contact-form">
 
-					<form id="formContact1" action="https://formsubmit.co/lucasrvacari9@gmail.com" method="post" data-form="formContact1">
+					<form id="formContact1" action="https://formsubmit.co/lucasrvacari9@gmail.com" method="POST" data-form="formContact1">
 
 						<div class="row">
 
@@ -2596,7 +2596,7 @@
 
 							<div class="form-group col-md-12 col-sm-12">
 
-								<textarea rows="4" class="form-control" placeholder="Conte-me como posso ajuda-lo" name="mensagem" id="mensagem" required></textarea>
+								<textarea rows="4" class="form-control" placeholder="Conte-me como posso ajuda-lo" name="mensagem" id="mensagem"></textarea>
 
 							</div>
 
@@ -2779,7 +2779,7 @@
 
 							success: "<div class='mensagem' id='mensagemEnviada'>Formulário enviado com sucesso!</div>",
 
-							error: "<div class='mensagem' id='mensagemEnviada'>Não foi possível enviar sua mensagem!</div>",
+							error: "<div class='mensagem' id='mensagemEnviada'>Não foi possível enviar sua mensagem! Por Favor, tente novamente.</div>",
 
 						});
 
