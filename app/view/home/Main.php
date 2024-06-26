@@ -2574,7 +2574,7 @@
 
 				<div class="contact-form">
 
-					<form id="formContact1" action="https://formsubmit.co/ajax/lucasrvacari9@gmail.com" method="post" data-form="formContact1">
+					<form id="formContact1" action="https://formsubmit.co/lucasrvacari9@gmail.com" method="post" data-form="formContact1">
 
 						<div class="row">
 
